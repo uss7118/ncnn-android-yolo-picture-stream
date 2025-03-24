@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">gzl_ncnn-yolo</string>
+    <string-array name="data_array">
+        <item>stream</item>
+        <item>picture</item>
+    </string-array>
+    <string-array name="model_array">
+        <item>v8n</item>
+        <item>v8s</item>
+        <item>v10n</item>
+        <item>v10s</item>
+        <item>v7-tiny</item>
+        <item>v5s</item>
+        <item>rtmpose</item>
+        <item>v11n</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+</resources>
