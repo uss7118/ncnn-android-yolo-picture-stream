@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ncnn-android-yolo-picture-stream.iml" filepath="$PROJECT_DIR$/.idea/modules/ncnn-android-yolo-picture-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolo-picture-stream.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
