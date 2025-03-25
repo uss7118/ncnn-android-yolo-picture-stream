@@ -1,4 +1,7 @@
-# ncnn-android-yolo-picture-stream
+#工程（ncnn-android-yolo-picture-stream）可傻瓜式一键使用
+基于NCNN前向推理的Android代码工程，实现基于图片和实时摄像头流（视频）的目标检测，模型包含YoloV5、YoloV7、YoloV8、YoloV10、YoloV11、rtmdet等NCNN模型文件，已包含opencv、ncnn依赖包，下载后在Android studio上安装依赖环境后可直接运行！如果感觉有所帮忙，望点击star⭐！
+
+# 若你想要更改ncnn和opencv库
 
 This is a sample ncnn android project of object detection, it depends on ncnn library and opencv
 
